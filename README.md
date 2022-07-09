@@ -1,0 +1,1 @@
+I am going back through The Odin Project "Foundations" since it has been months.
